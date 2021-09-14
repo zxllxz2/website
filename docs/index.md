@@ -11,4 +11,6 @@ Picture by Albert Robida, Public domain, via Wikimedia Commons <https://commons.
 ![Picture in folder](trial_picture.jpg)
 
 
-For a useless subpage: [A link to the subpage](sidepage/)
+For a useless subpage: [A link to the subpage](sidepage)
+
+For another useless yet different subpage: [A link to this page](otherpage)
