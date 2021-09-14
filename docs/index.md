@@ -15,3 +15,5 @@ This is added by a relatiev address to the picture.
 For a useless subpage: [A link to the subpage, which is the relative address](sidepage)
 
 For another useless yet different subpage: [A link to this page, a relatiev address as well](otherpage)
+
+For directing to the subpage created by another method: ["foldername/"](newsubpage/)

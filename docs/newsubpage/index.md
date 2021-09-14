@@ -1,6 +1,6 @@
 # The 2nd method to create a subpage
 
-In this case, we direct to this page from the index page using ["foldername/"](newsubpage/)
+In this case, we direct to this page from the index page using ["foldername/"].
 
 And we go back to the main index page by writing [../](../)
 
