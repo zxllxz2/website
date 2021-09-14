@@ -10,4 +10,4 @@ Picture by Albert Robida, Public domain, via Wikimedia Commons <https://commons.
 
 ![Picture in folder](trial_picture.jpg)
 
-Go back to the main [index page](../)
+Go back to the main [index page](./)
