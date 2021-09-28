@@ -1,7 +1,6 @@
 menu:
 - {name: 'people', url: '/people'}
 - {name: 'superpower', url: '/publications'}
-- {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -13,4 +12,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/xiaoliangzhutoby/'}
 
 contacts:
-- {name: 'Dr. Zhu', title: 'Professor', department: 'Gaming', institution: 'University A', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Zhu', title: 'Professor', department: 'Gaming', institution: 'University A', institution_address: '1 Main Street, China', phone: '(000) 0000-0000', email: 'wtf@universitya.edu', office: 'Science Building 5050', image: 'assets/img/contact.jpg'}
