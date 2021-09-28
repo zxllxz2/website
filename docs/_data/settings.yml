@@ -1,0 +1,16 @@
+menu:
+- {name: 'people', url: '/people'}
+- {name: 'superpower', url: '/publications'}
+- {name: 'courses', url: '/courses'}
+- {name: 'cv', url: '/cv'}
+- {name: 'contact', url: '/contact'}
+
+
+social:
+- {icon: 'github', link: 'https://github.com/zxllxz2'}
+- {icon: 'twitter', link: 'https://twitter.com'}
+- {icon: 'instagram', link: 'https://instagram.com'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/xiaoliangzhutoby/'}
+
+contacts:
+- {name: 'Dr. Zhu', title: 'Professor', department: 'Gaming', institution: 'University A', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
