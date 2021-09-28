@@ -1,4 +1,4 @@
 ---
-layout: superpower
+layout: publications
 title: "Superpower"
 ---
